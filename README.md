@@ -5,6 +5,9 @@ I am a senior college student at Shanghai Jiao Tong University. I will be a firs
 - Deep Learning
 # Rewards
 Yang Yuanqing Scholarship, 2019.
+
 National Encouragement Scholarship, 2019.
+
 National Encouragement Scholarship, 2020.
+
 National Encouragement Scholarship, 2021.
