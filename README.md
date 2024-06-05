@@ -9,11 +9,12 @@ I am currently a second-year master student in computer science in John Hopcroft
 
 # Publications
 
-Hallucination Diversity-Aware Active Learning for Text Summarization (NAACL'24)
+**Hallucination Diversity-Aware Active Learning for Text Summarization (NAACL'24)**
+A
 
-Interact with the Explanations: Causal Debiased Explainable Recommendation System (WSDM'24)
+**Interact with the Explanations: Causal Debiased Explainable Recommendation System (WSDM'24)**
 
-CraftEnv: A Flexible Collective Robotic Construction Environment for Multi-Agent Reinforcement Learning (AAMAS'23)
+**CraftEnv: A Flexible Collective Robotic Construction Environment for Multi-Agent Reinforcement Learning (AAMAS'23)**
 
 # Rewards
 
