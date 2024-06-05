@@ -4,7 +4,7 @@ I am currently a second-year master student in computer science in John Hopcroft
 
 # Research Interests
 
-- Reinforcement Learning and its Applications
+- (Offline-to-Online) Reinforcement Learning and its Applications
 - Explainable Recommendation System
 
 # Publications
